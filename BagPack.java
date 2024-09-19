@@ -41,5 +41,6 @@ public class BagPack implements setWeight {
     @Override
     public double countTotalWeight() {
         System.out.println("это изменения");
+        System.out.println("это изменения номер 2");
         return totalWeight; 
 }}
